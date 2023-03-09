@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638138074205096509
-    m_Hash: 4039962948
+      ticks: 638139648321262098
+    m_Hash: 2630810960
   m_LockFileStatus:
     m_FilePath: D:/H/Hololens2_MWL/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638138074205161752
-    m_Hash: 3712559154
+      ticks: 638139648321367385
+    m_Hash: 3992390479
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -364,57 +364,6 @@ m_PackageAssets:
       repository:
         type: git
         url: git+https://github.com/Azure/azure-spatial-anchors-samples.git
-        revision: 
-        path: 
-    - packageId: com.microsoft.mixedreality.input@file:D:\H\Hololens2_MWL\Packages\MixedReality\com.microsoft.mixedreality.input-0.9.2006.tgz
-      testable: 0
-      isDirectDependency: 1
-      version: 0.9.2006
-      source: 6
-      resolvedPath: D:\H\Hololens2_MWL\Library\PackageCache\com.microsoft.mixedreality.input@9d4de6e2380a-1678209939123
-      assetPath: Packages/com.microsoft.mixedreality.input
-      name: com.microsoft.mixedreality.input
-      displayName: Mixed Reality Input
-      author:
-        name: Microsoft
-        email: 
-        url: http://aka.ms/MR-Input
-      category: 
-      type: 
-      description: Provides access to additional inputs from Windows Mixed Reality
-        controllers.
-      status: 4
-      errors: []
-      versions:
-        all: []
-        compatible: []
-        verified: 
-      dependencies: []
-      resolvedDependencies: []
-      keywords:
-      - microsoft
-      - mixed
-      - reality
-      - motioncontroller
-      - controller
-      registry:
-        id: 
-        name: 
-        url: 
-        scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 0
-      documentationUrl: 
-      hasRepository: 0
-      repository:
-        type: 
-        url: 
         revision: 
         path: 
     - packageId: com.microsoft.mixedreality.openxr@file:D:\H\Hololens2_MWL\Packages\MixedReality\com.microsoft.mixedreality.openxr-1.7.2.tgz
@@ -5800,20 +5749,6 @@ m_PackageAssets:
         serializedVersion: 2
         ticks: 638027368017377654
       m_Hash: 2168512687
-    - m_FilePath: D:\H\Hololens2_MWL\Packages\MixedReality\com.microsoft.mixedreality.input-0.9.2006.tgz/package.json
-      m_PathExists: 0
-      m_ContentTrackingEnabled: 1
-      m_ModificationDate:
-        serializedVersion: 2
-        ticks: 0
-      m_Hash: 0
-    - m_FilePath: D:\H\Hololens2_MWL\Packages\MixedReality\com.microsoft.mixedreality.input-0.9.2006.tgz
-      m_PathExists: 1
-      m_ContentTrackingEnabled: 1
-      m_ModificationDate:
-        serializedVersion: 2
-        ticks: 638138067391232910
-      m_Hash: 2730948826
     - m_FilePath: D:\H\Hololens2_MWL\Packages\MixedReality\com.microsoft.mixedreality.openxr-1.7.2.tgz/package.json
       m_PathExists: 0
       m_ContentTrackingEnabled: 1
