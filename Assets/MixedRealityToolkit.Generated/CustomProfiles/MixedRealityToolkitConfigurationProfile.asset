@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isCustomProfile: 1
   experienceSettingsProfile: {fileID: 11400000, guid: 56dae50fab689fb4bade749954299cf7, type: 2}
-  targetExperienceScale: 3
+  targetExperienceScale: 4
   enableCameraSystem: 1
   cameraProfile: {fileID: 11400000, guid: bbfd152743acbb4418617040bfa6e4e4, type: 2}
   cameraSystemType:
